@@ -2,3 +2,4 @@
 meta-raspberrypi
 poky
 build
+meta-qt5
